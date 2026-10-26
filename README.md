@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Any Minecraft verions past 1.21.9 currently have a Iris issue which causes **inverted lightmaps**. You can still use the shader, but lighting might be off. This is not an issue with this project, but rather with Iris.
+> Any Minecraft verions 1.21.9 and older currently have a Iris issue which causes **inverted lightmaps**. You can still use the shader, but lighting might be off. This is not an issue with this project, but rather with Iris.
 
 > I have no idea what I'm doing, and I'm in way over my head. Don't expect much out of this.
 > 
