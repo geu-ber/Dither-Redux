@@ -5,6 +5,14 @@
 > 
 >   -geuber
 
+<details>
+  <summary>TODO:</summary>
+  
+  - More languages?
+  - Try to fix inverted lightmaps
+  - Weights for colors
+</details>
+
 ![Dither Shaderpack Banner](https://cdn.modrinth.com/data/cached_images/e17fde2e2dcc1557619af4810aa537e7f149b214.png)
 
 # Dither
