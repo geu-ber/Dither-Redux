@@ -9,7 +9,7 @@
   <summary>TODO:</summary>
   
   - More languages?
-  - Try to fix inverted lightmaps
+  - ~~Try to fix inverted lightmaps~~ turns out, this is actually a problem on versions 1.21.9 and older, not newer. unfortunately, i do not care about versions older than 1.21.9.
   - Weights for colors
 </details>
 
